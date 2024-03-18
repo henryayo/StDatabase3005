@@ -12,3 +12,5 @@ Instructions:
     The SQL script will be found in the 'scripts' folder and you have to open pgAdmin4 and add a database name of your choosing.
     Go to the query tool and upload the sql script ('std.sql') then run it. 
     This would populate the database with the provided values.
+
+Video link - https://youtu.be/BoVn7kjdj8I
